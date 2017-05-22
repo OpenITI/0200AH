@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_009218
-#NewRec# 000.BookURI	:: #0189.MuhammadShaybani.SiyarKabir
-#NewRec# 010.AuthorAKA	:: محمد بن الحسن الشيباني
-#NewRec# 010.AuthorNAME	:: محمد بن الحسن الشيباني
-#NewRec# 011.AuthorBORN	:: 132هـ
-#NewRec# 011.AuthorDIED	:: 189
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: السير الكبير
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: سيرة النبي صلى الله عليه وسلم :: كتب سيرة النبي صلى الله عليه وسلم وأصحابه
-#NewRec# 022.BookVOLS	:: NODATA
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: شرح كتاب السير الكبير
-#NewRec# 030.LibURI	:: JK_009218
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: د. صلاح الدين المنجد
-#NewRec# 041.EdNUMBER	:: -
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: معهد المخطوطات
-#NewRec# 044.EdPLACE	:: القاهرة
-#NewRec# 045.EdYEAR	:: -
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_009218
+#META# 000.BookURI	:: #0189.MuhammadShaybani.SiyarKabir
+#META# 010.AuthorAKA	:: محمد بن الحسن الشيباني
+#META# 010.AuthorNAME	:: محمد بن الحسن الشيباني
+#META# 011.AuthorBORN	:: 132هـ
+#META# 011.AuthorDIED	:: 189
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: السير الكبير
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: سيرة النبي صلى الله عليه وسلم :: كتب سيرة النبي صلى الله عليه وسلم وأصحابه
+#META# 022.BookVOLS	:: NODATA
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: شرح كتاب السير الكبير
+#META# 030.LibURI	:: JK_009218
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: د. صلاح الدين المنجد
+#META# 041.EdNUMBER	:: -
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: معهد المخطوطات
+#META# 044.EdPLACE	:: القاهرة
+#META# 045.EdYEAR	:: -
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
