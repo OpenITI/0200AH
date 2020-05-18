@@ -1,7 +1,9 @@
 00#BOOK#URI######: 0200YahyaIbnBitriq.Thulujiya
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Mā istakhrajahu al-Iskandar al-Afrūdīsī min Kitāb Arisṭūṭālīs al-musammá Thūlūjiyā wa-maʿnāhu al-kalām fī al-rubūbiyya
-10#BOOK#TITLEB#AR: Qawl istakhrajahu al-Iskandar min Kitāb Thālūjiyā ayy al-rubūbiyya
+10#BOOK#TITLEA#AR: Mā istakhrajahu al-Iskandar al-Afrūdīsī min Kitāb
+    Arisṭūṭālīs al-musammá Thūlūjiyā wa-maʿnāhu al-kalām fī al-rubūbiyya
+10#BOOK#TITLEB#AR: Qawl istakhrajahu al-Iskandar min Kitāb Thālūjiyā ayy
+    al-rubūbiyya
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
