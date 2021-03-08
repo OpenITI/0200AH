@@ -1,15 +1,16 @@
 00#BOOK#URI######: 0200YahyaIbnBitriq.Thulujiya
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Mā istaḫrajahu al-Iskandar al-Afrūdīsī min Kitāb Arisṭūṭālīs 
+10#BOOK#TITLEA#AR: Mā istaḫrajahu al-Iskandar al-Afrūdīsī min Kitāb
+    Arisṭūṭālīs
     al-musammá Ṯūlūjiyā wa-maʿnāhu al-kalām fī al-rubūbiyyaŧ
 10#BOOK#TITLEB#AR: Qawl istaḫrajahu al-Iskandar min Kitāb Ṯālūjiyā ayy
     al-rubūbiyyaŧ
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: [Proclus Diadochus, Institutio Theologica] (TRANSL)
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
