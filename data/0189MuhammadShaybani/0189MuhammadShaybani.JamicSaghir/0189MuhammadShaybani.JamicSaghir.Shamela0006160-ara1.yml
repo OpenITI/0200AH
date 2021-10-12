@@ -1,14 +1,11 @@
-00#VERS#CLENGTH##: 450096
-00#VERS#LENGTH###: 110868
-00#VERS#URI######: 0189MuhammadShaybani.JamicSaghir.Shamela0006160-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+00#VERS#CLENGTH##:  450096
+00#VERS#LENGTH###:	110868
+00#VERS#URI######: 	0189MuhammadShaybani.JamicSaghir.Shamela0006160-ara1
+80#VERS#BASED####: 	http://www.worldcat.org/oclc/929737332
+80#VERS#COLLATED#	http://www.worldcat.org/oclc/4770522594
+80#VERS#LINKS####:	https://archive.org/details/hanafi_20150918_1814/mode/2up
+90#VERS#ANNOTATOR:	Omar Abdel-Ghaffar (SHARIAsource-CnC)
+90#VERS#COMMENT##:	The text corresponds closely to the printed edition. Although the two editions are different they correspond precisely with each other. There was some noise which the editor removed, and only one imprecision; the ṣād was rendered ḍād on page 464.
+90#VERS#DATE#####:	09.23.21
+90#VERS#ISSUES###:	NO_MAJOR_ISSUES
+
