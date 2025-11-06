@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0182-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q220697
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "YaʿḲūb b. Ibrāhīm al-Anṣārī al-Kūfī , a prominent religious lawyer, one of the founders of the Ḥanafī [q.v.] school of law. Abū Yūsuf was of pure Arab extraction; his ancestor, Saʿd b. Ḥabta, was a youth in Medina in the time of the Prophet. (For details of his genealogy, see al-Ḵh̲aṭīb al-Bag̲h̲dādī, xiv, 243.) His date of birth, reckoned backwards from the date of his death, is rather arbitrarily given as 113.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_0277

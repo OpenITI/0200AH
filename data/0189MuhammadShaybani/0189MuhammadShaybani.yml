@@ -1,5 +1,5 @@
 00#AUTH#URI######: 0189MuhammadShaybani
-10#AUTH#ISM####AR: Muḥammad  
+10#AUTH#ISM####AR: Muḥammad
 10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. al-Ḥasan
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0189-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293612
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū ʿAbd Allāh Muḥammad b. al-Ḥasan b. Farḳad, jurist of the Ḥanafī school [see al-ḥanafiyya ] of the very highest eminence, immediate disciple of Abū Ḥanīfa and of Abū Yūsuf [q.vv.].": http://dx.doi.org/10.1163/1573-3912_islam_COM_1051
